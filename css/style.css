@@ -62,6 +62,6 @@ footer {
   border: 5px rgb(152,173,166) solid
 }
 
-#press a:hover {
+#press a img:hover {
 	color: rgb(111,127,122);
 }

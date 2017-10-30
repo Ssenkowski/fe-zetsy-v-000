@@ -16,13 +16,16 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
 }
+
 header {
   display: block;
 }
+
 header a{
   color: rgb(152,173,166);
     text-decoration: none;
 }
+
 header a:hover {
 	color: rgb(111,127,122);
 }

@@ -24,6 +24,9 @@ header a{
     text-decoration: none;
 }
 
+a {
+  background: transparent;
+}
 footer {
   text-align: right;
 }

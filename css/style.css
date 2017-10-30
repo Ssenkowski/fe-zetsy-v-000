@@ -42,10 +42,8 @@ h1 {
 }
 
 h2 {
-  padding-bottom: 20px;
-  padding-top: 20px;
-    margin: 0 0 5px;
-    font-family: 'Baskerville', serif;
+  color: rgb(111,127,122);
+    font-size: 2em;
 }
 /* Write all remaining styles here */
 
